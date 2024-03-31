@@ -6,4 +6,3 @@ More text.
 
 More text even.
 More text even.
-More text even.
